@@ -1,0 +1,20 @@
+{
+  "name": "PakBazar - Buy & Sell in Pakistan",
+  "short_name": "PakBazar",
+  "start_url": "/index_2.html",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#00875a",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/00875a/FFFFFF?text=PB",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/00875a/FFFFFF?text=PB",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
